@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    font-size: 12px;
+    width: 100%;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.box {
+    justify-content: center;
+    align-items: center;
+
+}
+
+.clock1 {
+    height: 150px;
+}
+
+.clock2 {
+    right: 300px;
+    height: 150px;
+}
+
+.clock3 {
+    right: 500px;
+    height: 150px;
+}
+
+.clock4 {
+    right: 700px;
+    height: 150px;
+}
+
+.body {
+    width: 100%;
+    height: 100%;
+}
+
+.special{
+justify-content: center;
+}
+.bigbox{
+    display: flex;
+    align-items: center;
+}
